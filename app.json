@@ -24,5 +24,7 @@
       "supportsTablet": true,
       "bundleIdentifier": "com.yourcompany.yourappname"
     }
-  }
+  },
+  "displayName":"Test project",
+  "name": "myproj"
 }
